@@ -107,10 +107,18 @@ int main() {
 
     cout << "FCFS SCHEDULER\n";
     thread core_threads[4];
+    bool processes_done = false;
+
     while (true) {
         cout << "\Command >> ";
         string cmd;
         getline(cin, cmd);
+
+        // Exit the emulator
+        if (cmd == "exit") {
+            cout << "Exiting emulator...\n";
+            break;
+        }
 
         if (cmd == "screen -ls") {
             if (next_process_index == 0) {
@@ -134,7 +142,7 @@ int main() {
             }
         }
         else {
-            cout << "\nUnknown command. Type 'screen -ls' to check progress.\n";
+            cout << "\nnUnknown command. Type 'screen -ls' to check progress or 'exit' to quit.\n";
         }
 
         bool all_finished = true;
@@ -146,7 +154,7 @@ int main() {
         }
 
         if (all_finished) {
-            break; 
+            processes_done = true;
         }
 
     }
