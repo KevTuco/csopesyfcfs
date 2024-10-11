@@ -1,100 +1,100 @@
-Date: 10/11/2024 10:48:50 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:50 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:50 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:51 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:51 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:51 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:51 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:51 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:51 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:51 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:51 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:51 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:52 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:52 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:52 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:52 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:52 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:52 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:52 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:52 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:52 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:53 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:53 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:53 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:53 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:53 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:53 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:53 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:53 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:53 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:54 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:55 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:55 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:55 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:55 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:55 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:55 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:55 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:55 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:55 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:56 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:56 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:56 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:56 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:56 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:56 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:56 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:56 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:56 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:57 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:57 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:57 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:57 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:57 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:57 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:57 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:57 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:57 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:58 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:58 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:58 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:58 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:58 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:58 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:58 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:58 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:58 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:59 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:59 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:59 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:59 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:59 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:59 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:59 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:59 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:48:59 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:00 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:01 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:01 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:01 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:01 AM, Core: 2, Hello from process 2
-Date: 10/11/2024 10:49:01 AM, Core: 2, Hello from process 2
+10/11/2024 01:54:23 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:23 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:23 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:23 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:23 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:23 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:23 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:24 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:24 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:24 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:24 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:24 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:24 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:24 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:24 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:24 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:25 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:25 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:25 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:25 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:25 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:25 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:25 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:25 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:25 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:26 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:26 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:26 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:26 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:26 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:26 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:26 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:26 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:26 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:27 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:27 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:27 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:27 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:27 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:27 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:27 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:27 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:27 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:28 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:29 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:29 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:29 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:29 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:29 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:29 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:29 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:29 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:29 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:30 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:30 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:30 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:30 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:30 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:30 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:30 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:30 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:30 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:31 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:31 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:31 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:31 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:31 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:31 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:31 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:31 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:31 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:32 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:32 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:32 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:32 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:32 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:32 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:32 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:32 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:32 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:33 PM, Core: 2, Hello from process 2
+10/11/2024 01:54:34 PM, Core: 2, Hello from process 2

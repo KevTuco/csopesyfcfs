@@ -110,9 +110,9 @@ int main() {
     while (true) {
         cout << "\Command >> ";
         string cmd;
-        cin >> cmd; 
+        getline(cin, cmd);
 
-        if (cmd == "screen") {
+        if (cmd == "screen -ls") {
             if (next_process_index == 0) {
                 for (int i = 0; i < 4; i++) {
                     core_threads[i] = thread(fcfs_core, i);
